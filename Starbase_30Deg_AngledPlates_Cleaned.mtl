@@ -1,0 +1,160 @@
+newmtl CoolantFBXASC032BoardFBXASC032FBXASC040OfficialFBXASC041SG
+illum 4
+Kd 0.25 0.21 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.06 0.05 0.20
+Ns 34.00
+newmtl LeverSG
+illum 4
+Kd 0.31 0.03 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.08 0.01 0.20
+Ns 34.00
+newmtl MainFBXASC032FlightFBXASC032ComputerFBXASC032FBXASC040MFCFBXASC041SG
+illum 4
+Kd 0.03 0.05 0.73
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.01 0.01 0.18
+Ns 34.00
+newmtl Mover_simpleSG
+illum 4
+Kd 0.45 0.07 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.11 0.02 0.00
+Ns 34.00
+newmtl ResourceFBXASC032PortSG
+illum 4
+Kd 0.01 0.21 0.24
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.05 0.06
+Ns 34.00
+newmtl angled_plate_12x12x24FBXASC046001SG
+illum 4
+Kd 0.04 0.80 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.01 0.20 0.01
+Ns 34.00
+newmtl angled_plate_12x12x24FBXASC046002SG
+illum 4
+Kd 0.63 0.90 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 86.97
+newmtl attachment_plates_aFBXASC046001SG
+illum 4
+Kd 0.03 0.80 0.37
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.01 0.20 0.09
+Ns 34.00
+newmtl beams_angled_72x72FBXASC046001SG
+illum 4
+Kd 0.13 0.15 0.23
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.03 0.04 0.06
+Ns 23.00
+newmtl bolt_mediumFBXASC046001SG
+illum 4
+Kd 0.14 0.15 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.03 0.04 0.00
+Ns 34.00
+newmtl cargo_beam_laserSG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 34.00
+newmtl cargolock_cornerSG
+illum 4
+Kd 0.06 0.61 0.61
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.15 0.15
+Ns 34.00
+newmtl corner_hvy_48x48x48FBXASC046000SG
+illum 4
+Kd 0.02 0.28 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.01 0.07 0.00
+Ns 34.00
+newmtl decorativeFBXASC045railingFBXASC04572FBXASC046001SG
+illum 4
+Kd 0.37 0.37 0.37
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.09 0.09
+Ns 34.00
+newmtl latchSG
+illum 4
+Kd 0.23 0.23 0.21
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.06 0.06 0.05
+Ns 34.00
+newmtl radiator_panelSG
+illum 4
+Kd 0.70 0.68 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.18 0.17 0.00
+Ns 34.00
+newmtl rail_24SG
+illum 4
+Kd 0.23 0.09 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.06 0.02 0.00
+Ns 23.00
+newmtl small_thrusterSG
+illum 4
+Kd 0.55 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.14 0.00 0.00
+Ns 34.00
+newmtl turntable_baseSG
+illum 4
+Kd 0.61 0.19 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.15 0.05 0.00
+Ns 34.00
+newmtl turntable_smallbaseSG
+illum 4
+Kd 0.91 0.35 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.23 0.09 0.00
+Ns 34.00
